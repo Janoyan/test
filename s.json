@@ -1,0 +1,115 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "API Data Mobile",
+    "description": "This api designed for mobile apps and returns data cached special for mobile ",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://api-data-mobile.win.gg",
+      "description": "Production server"
+    },
+    {
+      "url": "https://api-data-mobile.wincafe.net",
+      "description": "Staging server"
+    },
+    {
+      "url": "https://api-data-mobile.priotix.xyz",
+      "description": "Testing server"
+    },
+    {
+      "url": "http://api-data-mobile.win.development",
+      "description": "Development server"
+    }
+  ],
+  "paths": {
+    "/tournaments/schedules": {
+      "post": {
+        "summary": "Get tournaments schedules",
+        "description": "Get list of tournaments and their upcoming series regarding filtering parameters ",
+        "tags": [
+          "Tournaments"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TournamentSchedulesBody"
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/Skip"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TournamentSchedulesBody": {
+        "type": "object",
+        "properties": {
+          "fromDate": {
+            "type": "string",
+            "format": "date-time",
+            "required": "true",
+            "description": "Start date of the range for scheduled series (can be timestamp as well)"
+          },
+          "toDate": {
+            "type": "string",
+            "format": "date-time",
+            "required": "true",
+            "description": "End date of the range for scheduled series (can be timestamp as well)"
+          },
+          "seriesIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "required": "false",
+            "description": "Array of series ids for filtering tournaments"
+          },
+          "gameIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "required": "false",
+            "description": "Array of game ids for filtering tournaments"
+          },
+          "tournamentIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "required": "false",
+            "description": "Array of tournament ids for filtering tournaments"
+          }
+        }
+      }
+    },
+    "parameters": {
+      "Skip": {
+        "name": "skip",
+        "in": "query",
+        "example": "0",
+        "description": "Skip found documents"
+      },
+      "Limit": {
+        "name": "limit",
+        "in": "query",
+        "example": "10",
+        "description": "Limit documents count"
+      }
+    }
+  }
+}
