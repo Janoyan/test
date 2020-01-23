@@ -1,5 +1,5 @@
 {
-  "openapi": "3.0.2",
+  "openapi": "3.0.0",
   "info": {
     "title": "API Data Mobile",
     "description": "This api designed for mobile apps and returns data cached special for mobile ",
@@ -43,6 +43,12 @@
         "parameters": [
           {
             "$ref": "#/components/parameters/Skip"
+          },
+          {
+            "$ref": "#/components/parameters/Limit"
+          },
+          {
+            "$ref": "#/components/parameters/Fields"
           }
         ],
         "responses": {
@@ -101,14 +107,17 @@
       "Skip": {
         "name": "skip",
         "in": "query",
-        "example": "0",
-        "description": "Skip found documents"
+        "example": "0"
       },
       "Limit": {
         "name": "limit",
         "in": "query",
-        "example": "10",
-        "description": "Limit documents count"
+        "example": "10"
+      },
+      "Fields": {
+        "name": "fields",
+        "in": "query",
+        "description": "Comma spaced property names which need to get (default all properties)"
       }
     }
   }
