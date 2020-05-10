@@ -1,11 +1,77 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
 <body>
 
-<h1>My First Heading</h1>
+<input class="aa" id="input-text" placeholder="Type here" onkeyup="process()">
 
-<p>My first paragraph.</p>
+<p class="aa" id="encoded"></p>
+<p class="aa" id="decoded"></p>
 
 </body>
+
+<style>
+    body {
+        display: block;
+        text-align: center;
+    }
+
+    .aa {
+        display: inline-block;
+        width: 100%;
+        border-radius: 5px;
+    }
+</style>
+
+<script type="text/javascript">
+
+    function b64EncodeUnicode(str) {
+        // first we use encodeURIComponent to get percent-encoded UTF-8,
+        // then we convert the percent encodings into raw bytes which
+        // can be fed into btoa.
+        return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g,
+            function toSolidBytes(match, p1) {
+                return String.fromCharCode('0x' + p1);
+            }));
+    }
+
+    function b64DecodeUnicode(str) {
+        // Going backwards: from bytestream, to percent-encoding, to original string.
+        return decodeURIComponent(atob(str).split('').map(function(c) {
+            return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+        }).join(''));
+    }
+
+
+
+    function process() {
+        const text = document.querySelector('#input-text').value;
+        let encoded = '';
+        let decoded = '';
+
+        try {
+            encoded = b64EncodeUnicode(text);
+        } catch (e) {}
+
+        try {
+            decoded = b64DecodeUnicode(text);
+        } catch (e) {}
+
+        document.querySelector('#encoded').innerHTML = encoded;
+        document.querySelector('#decoded').innerHTML = decoded;
+
+    }
+
+
+
+
+</script>
 </html>
+
+
+
 
