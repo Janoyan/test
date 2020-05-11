@@ -31,6 +31,16 @@
 
 <script type="text/javascript">
 
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
     function b64EncodeUnicode(str) {
         // first we use encodeURIComponent to get percent-encoded UTF-8,
         // then we convert the percent encodings into raw bytes which
@@ -67,6 +77,11 @@
         document.querySelector('#decoded').innerHTML = decoded;
 
     }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        document.querySelector('#input-text').value = getParameterByName('text') || '';
+        process();
+    });
 
 
 
