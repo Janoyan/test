@@ -1,0 +1,40 @@
+## Languages 
+* TypeScript ([see details](typescript))
+* JavaScript ([see details](javascript))
+## Databases/Caches 
+* MongoDB ([see details](mongodb))
+* PostgreSQL ([see details](postgresql))
+* Redis ([see details](redis))
+## Frameworks/Environments
+* NodeJS ([see details](nodejs))
+* Express ([see details](express))
+## DevOps
+* Docker ([see details](docker))
+* Docker Compose ([see details](docker-compose))
+* AWS ([see details](aws))
+* Azure ([see details](azure))
+* CircleCI ([see details](circleci))
+## Messaging Systems
+* Nats ([see details](nats))
+* Redis ([see details](redis))
+* Kafka ([see details](kafka))
+
+## NPM Libraries
+* [_bluebird_](https://www.npmjs.com/package/bluebird) - for working with promises ([see details](bluebird))
+* [_cors_](https://www.npmjs.com/package/cors) - to manage CORS ([see details](cors))
+* [_dotenv_](https://www.npmjs.com/package/dotenv) - to load .env files into process environment variables ([see details](dotenv))
+* [_express_](https://www.npmjs.com/package/express) - a framework for NodeJs ([see details](express))
+* [_joi_](https://www.npmjs.com/package/joi) - powerful request validator ([see details](joi))
+* [_lodash_](https://www.npmjs.com/package/lodash) - various helper methods ([see details](lodash))
+* [_module-alias_](https://www.npmjs.com/package/module-alias) - for working with aliases ([see details](module-alias))
+* [_moment_](https://www.npmjs.com/package/moment) - for time-related tasks ([see details](moment))
+* [_mongoose_](https://www.npmjs.com/package/mongoose) - for working with MongoDB ([see details](mongoose))
+* [_mongoose-paginate-v2_](https://www.npmjs.com/package/mongoose-paginate-v2) - pagination plugin for mongoose ([see details](mongoose-paginate-v2))
+* [_multer_](https://www.npmjs.com/package/multer) - for handling file uploads ([see details](multer))
+* [_node-fetch_](https://www.npmjs.com/package/node-fetch) - for making HTTP requests ([see details](node-fetch))
+* [_sharp_](https://www.npmjs.com/package/sharp) - for working with images ([see details](sharp))
+* [_chai_](https://www.npmjs.com/package/chai) - assertion library ([see details](chai))
+* [_faker_](https://www.npmjs.com/package/faker) - mock data generator ([see details](faker))
+* [_mocha_](https://www.npmjs.com/package/mocha) - testing framework ([see details](mocha))
+* [_rewire_](https://www.npmjs.com/package/rewire) - for mocking methods ([see details](rewire))
+* [_supertest_](https://www.npmjs.com/package/supertest) - high-level abstraction for testing HTTP requests  ([see details](supertest))
