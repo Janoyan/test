@@ -1,0 +1,4283 @@
+{
+    "get": "players",
+    "parameters": {
+        "team": "700",
+        "season": "2019"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 56099,
+                "name": "Mirko Palazzi",
+                "firstname": "Mirko",
+                "lastname": "Palazzi",
+                "age": 33,
+                "birth": {
+                    "date": "1987-03-21",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "San Marino",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/56099.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 4,
+                        "minutes": 274,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 180,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80722,
+                "name": "Mattia Migani",
+                "firstname": "Mattia",
+                "lastname": "Migani",
+                "age": 29,
+                "birth": {
+                    "date": "1992-03-10",
+                    "place": "Cattolica",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "193 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/80722.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 12,
+                        "minutes": 1023,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 4,
+                        "minutes": 360,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 180,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80726,
+                "name": "Michael Angelini",
+                "firstname": "Michael",
+                "lastname": "Angelini",
+                "age": 37,
+                "birth": {
+                    "date": "1983-11-25",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/80726.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 5,
+                        "minutes": 418,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 3,
+                        "minutes": 239,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80728,
+                "name": "Mauro Lanzoni",
+                "firstname": "Mauro",
+                "lastname": "Lanzoni",
+                "age": 34,
+                "birth": {
+                    "date": "1987-09-20",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/80728.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 235,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104387,
+                "name": "Federico Innocenti",
+                "firstname": "Federico",
+                "lastname": "Innocenti",
+                "age": 39,
+                "birth": {
+                    "date": "1980-01-27",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104387.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 58,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104388,
+                "name": "Matteo Derjai",
+                "firstname": "Matteo",
+                "lastname": "Derjai",
+                "age": 21,
+                "birth": {
+                    "date": "1998-12-04",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104388.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 79,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104389,
+                "name": "Alex Gattei Colonna",
+                "firstname": "Alex Gattei",
+                "lastname": "Colonna",
+                "age": 32,
+                "birth": {
+                    "date": "1988-07-16",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104389.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104392,
+                "name": "Riccardo Innocenti",
+                "firstname": "Riccardo",
+                "lastname": "Innocenti",
+                "age": 47,
+                "birth": {
+                    "date": "1974-10-15",
+                    "place": "Alfonsine",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104392.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 32,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104393,
+                "name": "Aron Giacomoni",
+                "firstname": "Aron",
+                "lastname": "Giacomoni",
+                "age": 34,
+                "birth": {
+                    "date": "1987-08-22",
+                    "place": "Lugo",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "179 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104393.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 11,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104394,
+                "name": "Marco Ringucci",
+                "firstname": "Marco",
+                "lastname": "Ringucci",
+                "age": 26,
+                "birth": {
+                    "date": "1994-09-02",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104394.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104395,
+                "name": "Luca Oliveri",
+                "firstname": "Luca",
+                "lastname": "Oliveri",
+                "age": 18,
+                "birth": {
+                    "date": "2001-08-03",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/104395.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 105763,
+                "name": "Stefano Fraternali",
+                "firstname": "Stefano",
+                "lastname": "Fraternali",
+                "age": 34,
+                "birth": {
+                    "date": "1986-04-13",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/105763.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1191,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 270,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 180,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 105764,
+                "name": "Dario Merendino",
+                "firstname": "Dario",
+                "lastname": "Merendino",
+                "age": 37,
+                "birth": {
+                    "date": "1983-11-14",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/105764.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 7,
+                        "minutes": 567,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 270,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 105765,
+                "name": "Andrea Rossi",
+                "firstname": "Andrea",
+                "lastname": "Rossi",
+                "age": 34,
+                "birth": {
+                    "date": "1987-07-20",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/105765.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 8,
+                        "minutes": 659,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 180,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 105770,
+                "name": "Alfredo Chierighini",
+                "firstname": "Alfredo",
+                "lastname": "Chierighini",
+                "age": 55,
+                "birth": {
+                    "date": "1966-02-07",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "San Marino",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/105770.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 123219,
+                "name": "Thomas De Marini",
+                "firstname": "Thomas",
+                "lastname": "De Marini",
+                "age": 22,
+                "birth": {
+                    "date": "1998-11-02",
+                    "place": null,
+                    "country": "San Marino"
+                },
+                "nationality": "San Marino",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/123219.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 125697,
+                "name": "Giovanni Casolla",
+                "firstname": "Giovanni",
+                "lastname": "Casolla",
+                "age": 33,
+                "birth": {
+                    "date": "1987-08-18",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/125697.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 12,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 147738,
+                "name": "Luca Olivieri",
+                "firstname": "Luca",
+                "lastname": "Olivieri",
+                "age": 31,
+                "birth": {
+                    "date": "1989-04-25",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/147738.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 2,
+                        "name": "UEFA Champions League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/2.png",
+                        "flag": null,
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 152589,
+                "name": "Tommy Fantini",
+                "firstname": "Tommy",
+                "lastname": "Fantini",
+                "age": 25,
+                "birth": {
+                    "date": "1995-06-29",
+                    "place": null,
+                    "country": "San Marino"
+                },
+                "nationality": "San Marino",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/152589.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 152590,
+                "name": "Luca Nacci",
+                "firstname": "Luca",
+                "lastname": "Nacci",
+                "age": 19,
+                "birth": {
+                    "date": "2002-05-27",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "San Marino",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/152590.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": 404,
+                        "name": "Campionato",
+                        "country": "San-Marino",
+                        "logo": "https://media.api-sports.io/football/leagues/404.png",
+                        "flag": "https://media.api-sports.io/flags/sm.svg",
+                        "season": 2019
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 9,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 700,
+                        "name": "Tre Penne",
+                        "logo": "https://media.api-sports.io/football/teams/700.png"
+                    },
+                    "league": {
+                        "id": null,
+                        "name": "Coppa Titano",
+                        "country": null,
+                        "logo": null,
+                        "flag": null,
+                        "season": "2019-2020"
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}
